@@ -1,2 +1,2 @@
-somethingnew for sub branch
+thing new for sub branch
 add a new feture
