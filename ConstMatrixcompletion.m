@@ -1,4 +1,4 @@
- i  love yudn
+
 function [y,U]=ConstMatrixcompletion(A,xn,U)
 
 %矩阵的秩的猜想值
