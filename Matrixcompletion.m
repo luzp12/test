@@ -1,4 +1,4 @@
-
+test
 function [y,U]=Matrixcompletion(A,xn,U)
 
 %矩阵的秩的猜想值
@@ -54,3 +54,4 @@ X=U*R';
 Z=X-A;
 y=X(m,xn);
 % norm(Z,'fro')/norm(A,'fro')
+orz
